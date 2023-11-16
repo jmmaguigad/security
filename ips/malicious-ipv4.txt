@@ -1106,5 +1106,5 @@
 51.75.52.77
 185.117.88.15
 51.75.61.102
-172.31.230.86
+172.31.230.86 ; smb related traffic from this ip
 172.26.81.64 ; smb related traffic from this ip
