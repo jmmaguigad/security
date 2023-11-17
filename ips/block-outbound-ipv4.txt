@@ -1,1 +1,7 @@
 10.10.10.65
+172.31.11.1 ; smb related traffic from this ip
+172.31.11.16 ; smb related traffic from this ip
+172.31.230.86 ; smb related traffic from this ip
+172.31.31.20 ; smb related traffic from this ip
+172.31.52.113 ; smb related traffic from this ip
+178.31.13.10 ; smb related traffic from this ip
