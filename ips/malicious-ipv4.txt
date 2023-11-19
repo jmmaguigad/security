@@ -1108,3 +1108,4 @@
 51.75.61.102
 172.31.230.86 ; smb related traffic from this ip
 172.26.81.64 ; smb related traffic from this ip
+45.121.146.113 ; campaign using pdf creator software by stately taurus
