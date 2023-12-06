@@ -1,1 +1,9 @@
-172.31.22.66 ; ARRS Focal Janesis Buena December 05 2023
+172.31.26.139 ; 02 LAPTOP 883 Food stamp
+172.31.26.134 ; 02 LAPTOP 892 Food stamp
+172.31.26.147 ; 02 LAPTOP 881 Food stamp
+172.31.26.240 ; 02 LAPTOP 893 Food stamp
+172.31.27.100 ; 02 LAPTOP 911 Food stamp
+172.31.27.39 ; 02 LAPTOP 910 Food stamp
+172.31.26.235 ; 02 LAPTOP 932 Food stamp
+172.31.26.227 ; 02 LAPTOP 914 Food stamp
+
