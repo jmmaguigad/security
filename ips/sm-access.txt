@@ -6,4 +6,4 @@
 172.31.27.39 ; 02 LAPTOP 910 Food stamp
 172.31.26.235 ; 02 LAPTOP 932 Food stamp
 172.31.26.227 ; 02 LAPTOP 914 Food stamp
-
+172.31.26.16 ; Gayle temporary IP December 09 2023
