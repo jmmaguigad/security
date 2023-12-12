@@ -7,4 +7,4 @@
 172.31.26.235 ; 02 LAPTOP 932 Food stamp
 172.31.26.227 ; 02 LAPTOP 914 Food stamp
 172.31.26.16 ; Gayle temporary IP December 09 2023
-172.31.26.117 ; Maam Imelda Decena Standards
+172.31.26.117 ; Maam Imelda Decena Standards blank name in DHCP
