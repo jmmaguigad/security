@@ -4,3 +4,4 @@
 172.31.230.86 ; smb related traffic from this ip
 172.31.52.113 ; smb related traffic from this ip
 178.31.13.10 ; smb related traffic from this ip
+104.244.78.23 ; block kms related traffic
