@@ -6,14 +6,12 @@
 178.31.13.10 ; smb related traffic from this ip
 104.244.78.23 ; block kms related traffic
 106.55.134.25 ; block kms related traffic December 28 2023
-107.175.77.7
-116.202.203.74
-106.55.134.25
-185.22.66.98
-23.227.143.219
-154.49.96.82
-114.114.114.114
-209.205.197.226
-23.227.143.219
-154.49.96.82
-38.84.70.83
+107.175.77.7 ; block kms related traffic December 28 2023
+116.202.203.74 ; block slidelizard dot com December 28 2023
+23.227.143.219 ; block monetizemyapp dot net December 28 2023
+154.49.96.82 ; block monetizemyapp dot net December 28 2023 
+114.114.114.114 ; statis china address from easyvpn
+209.205.197.226 ; block monetizemyapp dot net December 28 2023 
+23.227.143.219 ; block monetizemyapp dot net December 28 2023 
+154.49.96.82 ; block monetizemyapp dot net December 28 2023
+38.84.70.83 ; block monetizemyapp dot net December 28 2023
