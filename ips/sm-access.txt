@@ -10,3 +10,6 @@
 172.31.26.200 ; Maam Selina S Taja ictsupport number 79744
 172.31.22.75 ; Rizalyn Guitering Temporary Access as per Maam VC
 172.31.22.109 ; Angelyn C. Doca Temporary Access as per Maam VC
+172.31.26.95 ; Andres Abong December 29 2023
+172.31.27.11 ; Andres Abong December 29 2023
+172.31.26.170 ; Andres Abong December 29 2023 
